@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-OC&hide_title=true&hide=issues&show_icons=truetrue&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-OC&card_width=250&langs_count=6&layout=compact&theme=tokyonight)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Peter-OC&theme=radical&date_format=j%20M%5B%20Y%5D&fire=1DDD96)
-
 <!--
 **Peter-OC/Peter-OC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Para mostar tarjetas de los repositorios
+- Para mostar tarjetas de los repositorios https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peter-OC&repo=proyecto&theme=aura)
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peter-OC&repo=Bootcapm&theme=radical)
 - Iconos de programas y lenguajes
@@ -38,4 +36,6 @@ Here are some ideas to get you started:
     ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
     ![Photoshop](https://img.icons8.com/fluency/48/000000/adobe-photoshop.png)
     ![Windows](https://img.icons8.com/color/48/000000/windows-logo.png)
+- Otro cuadro de stats pero distinto diseño http://github-readme-streak-stats.herokuapp.com/demo/
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Peter-OC&theme=radical&date_format=j%20M%5B%20Y%5D&fire=1DDD96)
 -->
