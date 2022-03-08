@@ -2,7 +2,7 @@
 
 
 ```
-  Hi 👋 I'm Peter
+Hi 👋 I'm Peter
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-OC&hide_title=true&show_icons=truetrue&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-OC&card_width=250&langs_count=6&layout=compact&theme=tokyonight)
