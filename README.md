@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-OC&hide_title=true&hide=issues&show_icons=truetrue&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-OC&card_width=250&langs_count=6&layout=compact&theme=tokyonight)
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Peter-OC&theme=radical&date_format=j%20M%5B%20Y%5D&fire=1DDD96)
+
 <!--
 **Peter-OC/Peter-OC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
