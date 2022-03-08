@@ -1,5 +1,8 @@
 ![PeterOC-Banner](https://user-images.githubusercontent.com/98455285/157261177-08abbd9c-d89d-4599-980c-35159af9e8f7.gif)
-### Hi I'm Peter 💻☜(ﾟヮﾟ☜)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-OC&show_icons=truetrue&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-OC&langs_count=6&layout=compact&theme=tokyonight)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peter-OC&repo=proyecto&theme=aura)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peter-OC&repo=Bootcapm&theme=radical)
 
 <!--
 **Peter-OC/Peter-OC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
