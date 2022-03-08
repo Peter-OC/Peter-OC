@@ -1,3 +1,4 @@
+![PeterOC-Banner](https://user-images.githubusercontent.com/98455285/157261177-08abbd9c-d89d-4599-980c-35159af9e8f7.gif)
 ### Hi I'm Peter 💻☜(ﾟヮﾟ☜)
 
 <!--
